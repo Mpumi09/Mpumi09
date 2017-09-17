@@ -1,0 +1,26 @@
+body { color: aliceblue;
+background-image: url(Screenshot_20170913-131515.png)
+}
+ Section{
+    background-color:black
+    ;width:50%;
+     margin-left: auto;
+     margin-right: auto;
+     border-radius: 10px
+    
+}
+Header {
+    width: 30%;
+  
+    
+} footer 
+{
+    padding: 50px
+} 
+aside {
+    
+    margin-left: auto;
+        margin-right: auto
+            ;background-color: black
+} image 
+{float: right}
